@@ -123,7 +123,7 @@
               <div class="col-6">
                 <div class="about-box">
                   <h2 class="base-color">20</h2>
-                  <p>research projects as a principal investigator</p>
+                  <p>Research projects as a principal investigator</p>
                 </div>
               </div>
               <div class="col-6">
@@ -152,33 +152,48 @@
               <div class="timeline-item">
                 <div class="icon"></div>
                 <div class="box">
-                  <h5>Full stack Web Developer</h5>
-                  <small class="bg-base-color"> 2004 - 2007</small>
+                  <h5>Nepal Eye Program, Tilganga Institute of Ophthalmology</h5>
+                  <small class="bg-base-color"> 2002 - Present</small>
+                  
+                </div>
+              </div>
+              <div class="timeline-item">
+                <div class="icon"></div>
+                <div class="box">
+                  <h5>Chairperson</h5>
+                  <small class="bg-base-color"> 2020 - 2023</small>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Optio quo repudiandae.
+                   Nepal Health Professional Council
                   </p>
                 </div>
               </div>
               <div class="timeline-item">
                 <div class="icon"></div>
                 <div class="box">
-                  <h5>Back-End Developer</h5>
-                  <small class="bg-base-color"> 2004 - 2007</small>
+                  <h5>Executive Chairman</h5>
+                  <small class="bg-base-color"> Dec 2011 - Jul 2021</small>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Optio quo repudiandae.
+                   Hamro Sahayatri Hospital and Birthing Centre
                   </p>
                 </div>
               </div>
-              <div class="timeline-item">
+               <div class="timeline-item">
                 <div class="icon"></div>
                 <div class="box">
-                  <h5>UI/UX Designer</h5>
-                  <small class="bg-base-color"> 2004 - 2007</small>
+                  <h5>President and MD</h5>
+                  <small class="bg-base-color"> Aug 2017 - Jun 2021</small>
                   <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Optio quo repudiandae.
+                  Public Health Development Nepal
+                  </p>
+                </div>
+              </div>
+               <div class="timeline-item">
+                <div class="icon"></div>
+                <div class="box">
+                  <h5>President</h5>
+                  <small class="bg-base-color"> Nov 2010 - Jul 2020</small>
+                  <p>
+                  Paila Saving and Credit Cooperative Ltd
                   </p>
                 </div>
               </div>
@@ -224,7 +239,7 @@
         </div>
 
         <!--Skills-->
-        <div class="section-sub-heading">
+        {{-- <div class="section-sub-heading">
           <h4 class="section-sub-title">My Skills</h4>
         </div>
         <div class="row">
@@ -358,7 +373,7 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> --}}
       </div>
     </div>
 
